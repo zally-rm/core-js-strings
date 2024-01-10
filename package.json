@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/core-js-strings/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/core-js-strings#readme"
+  "homepage": "https://github.com/rolling-scopes-school/core-js-strings#readme",
+  "dependencies": {
+    "n-readline": "^0.1.2",
+    "readline-sync": "^1.4.10"
+  }
 }
